@@ -49,7 +49,7 @@ VS Code wspiera wiele rozszerzeń, które umożliwiają dostosowanie edytora do 
 2. Wyszukaj „Code for IBM i” i kliknij "Zainstaluj".
 3. Po zainstalowaniu rozszerzenia, uruchom ponownie VS Code.
 
-![Screenshot interfejsu VS Code z rozszerzeniem Code for IBM i](img/1.png)
+![Screenshot interfejsu VS Code z rozszerzeniem Code for IBM i](img/screen1.png)
 ---
 
 ## Połączenie z IBM i
@@ -63,7 +63,7 @@ Aby połączyć VS Code z systemem IBM i, musisz użyć rozszerzenia, takiego ja
 3. Wprowadź wymagane dane (adres IP, port SSH, login, hasło).
 4. Kliknij „Połącz” i poczekaj na nawiązanie połączenia.
 
-![Screenshot interfejsu VS Code z połączenia do IBM i](img/2.png)
+![Screenshot interfejsu VS Code z połączenia do IBM i](img/screen2.png)
 ---
 
 ## Lista bibliotek użytkownika
